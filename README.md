@@ -88,6 +88,9 @@ endmodule
 ## *RTL*
 ![image](https://github.com/user-attachments/assets/b4487092-0a24-4dd6-aa82-92710d55c275)
 
+## OUTPUT
+![386241768-eee27a1d-6932-4b70-90b9-9c094dc64df3](https://github.com/user-attachments/assets/ab6c0e22-be21-4090-a857-b6c7be15da33)
+
 ## *Result:*
 
 The program is verified successfully using the software quartus prime
